@@ -1,6 +1,10 @@
-# flutter_glass_effect
+# Flutter Glass Effect
 
-A new Flutter project.
+A new Flu
+
+https://github.com/kainatnaeem/Flutter-Frosted-Container/assets/54583829/f249b178-5ded-4889-876f-608111e4490f
+
+tter project.
 
 ## Getting Started
 
